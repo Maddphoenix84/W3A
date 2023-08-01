@@ -1,5 +1,6 @@
 h1{
     color: rgb(217, 255, 0);font-family: cursive;
+    text-align: center;
 }
 body{
     background-color: rgba(11, 153, 172, 0.699);
@@ -14,10 +15,14 @@ details{
 p{color: rgb(226, 15, 131);
     font-size: larger; 
     font-family: fantasy;
+    text-align: center;
+
 }
 .Animal_name{color: rgb(255, 0, 0);
 font-size:larger;font-weight: 300;
 font-family: fantasy;
+text-align: center;
+
 
 }
 
@@ -25,4 +30,6 @@ font-family: fantasy;
     color: red;
     font-weight: 300;
     font-family: fantasy ;
+    text-align: center;
+
 }
