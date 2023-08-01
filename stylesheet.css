@@ -1,0 +1,19 @@
+h1{
+    color: rgb(217, 255, 0);font-family: cursive;
+}
+body{
+    background-color: rgba(11, 153, 172, 0.699);
+}
+h3{
+    color: rgb(255, 51, 0);
+    font-size: larger;
+}
+details{
+    color: crimson;
+}
+p{color: rgb(226, 15, 131);
+    font-size: larger; 
+    font-family: fantasy;
+}
+img{align-self: center;
+}
