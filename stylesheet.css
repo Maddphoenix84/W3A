@@ -15,5 +15,14 @@ p{color: rgb(226, 15, 131);
     font-size: larger; 
     font-family: fantasy;
 }
-img{align-self: center;
+.Animal_name{color: rgb(255, 0, 0);
+font-size:larger;font-weight: 300;
+font-family: fantasy;
+
+}
+
+#The_Aye_aye{font-size: larger; 
+    color: red;
+    font-weight: 300;
+    font-family: fantasy ;
 }
