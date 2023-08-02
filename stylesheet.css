@@ -42,3 +42,11 @@ article>h3 {color: crimson;
 div+p{
     color: rgb(255, 0, 0);
 }
+
+article{
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 300px 300px 300px;
+}
+
+
