@@ -34,3 +34,11 @@ text-align: center;
 
 }
 body h1 {color: rgb(243, 3, 35);}
+
+article>h3 {color: crimson;
+           font-style: italic; 
+}
+
+div+p{
+    color: rgb(255, 0, 0);
+}
